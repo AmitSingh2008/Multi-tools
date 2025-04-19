@@ -1,0 +1,28 @@
+multi-tools/
+├── assets/
+│   ├── css/
+│   │   ├── main.css
+│   │   └── bootstrap.min.css (if not using CDN)
+│   ├── js/
+│   │   ├── main.js
+│   │   ├── header-footer.js
+│   │   └── tools/
+│   │       ├── image-tools.js
+│   │       ├── seo-tools.js
+│   │       └── ... (other categories)
+│   └── images/
+│       ├── logo.png
+│       └── tool-icons/
+├── tools/
+│   ├── image/
+│   │   ├── image-to-png.html
+│   │   └── ... (other image tools)
+│   ├── seo/
+│   │   ├── meta-tag-generator.html
+│   │   └── ... (other SEO tools)
+│   └── ... (other categories)
+├── includes/
+│   ├── header.html
+│   └── footer.html
+├── index.html
+└── README.md
